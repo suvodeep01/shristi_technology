@@ -17030,6 +17030,12 @@ Sidebar
   }
 }
 
+@media (max-width:768px){
+	.text{
+		line-height:26px !importent;
+	}
+}
+
 /* end media query */
 
 /* suvodeep nayek code end */
